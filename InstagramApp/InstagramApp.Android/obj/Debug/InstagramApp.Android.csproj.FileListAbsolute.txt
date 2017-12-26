@@ -1,0 +1,3 @@
+c:\users\haris\source\repos\InstagramApp\InstagramApp\InstagramApp.Android\obj\Debug\InstagramApp.Android.csproj.CoreCompileInputs.cache
+c:\users\haris\source\repos\InstagramApp\InstagramApp\InstagramApp.Android\obj\Debug\InstagramApp.Droid.App.xaml.g.cs
+c:\users\haris\source\repos\InstagramApp\InstagramApp\InstagramApp.Android\obj\Debug\InstagramApp.Droid.MainPage.xaml.g.cs
